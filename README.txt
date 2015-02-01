@@ -41,17 +41,7 @@ e) Give command: make
    4)./patient1
    5)./patient2
 
-f) The format mentioned in the project description file is followed.
-    Authenticate request : "authenticate username password" from patients
-    Authentication reply : "success" or "failure".
-    Availability request : "available" from patients
-    Response             : "Sends the available timeslots with id, day and time ,otherwise "notavailable"
-    Selecting slot       : "selection id" from patients
-    Appointment Confirmation: "doctorname port number" to patients if available ,otherwise "notavailable" 
-    Insurance price request: "insurance name" to doctor with whom appointment is reserved.
-    Price estimation reply: "cost" to patient.
-g) No idiosyncrasy
-h) No reused code.  
+
        
   
   
